@@ -1,0 +1,29 @@
+{
+	"name": "web3js",
+	"version": "1.0.0",
+	"description": "Learning web3 interractions using web3js, ethersjs and node.js",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node src/index.js"
+	},
+	"keywords": [
+		"Web3",
+		"web3js",
+		"ethersjs",
+		"blockchain",
+		"Technicalentorship",
+		"smartcontracts",
+		"ABIs"
+	],
+	"author": "Enockkipkoech",
+	"license": "ISC",
+	"dependencies": {
+		"dotenv": "^16.4.5",
+		"ethers": "^6.13.4",
+		"express": "^4.21.1",
+		"node-dev": "^8.0.0",
+		"nodemon": "^3.1.7",
+		"web3": "^4.14.0"
+	}
+}
