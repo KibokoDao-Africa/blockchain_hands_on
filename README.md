@@ -8,15 +8,17 @@
 
 1. Development SetUp - Nodejs, Express, Web3, Ethers, dotenv Setup
 2. Blockchain Security & Wallets - Public & Private Keys
-3. Web3 Provider Connection(Connect to Ethereum Network)
+3. Web3 Provider Connection(Connect to Ethereum Network) - Alchemy, Infura, nodereal
 4. Ethers Wallet Connection(Connect to Ethereum Network)
 5. Ethers Wallet Balance Check
 6. Smart Contract ABI & Address
 7. Smart Contract Connection(Connect to Smart Contract)
 8. Smart Contract Read Functions( Interract with Smart Contract)
-9. Data Streaming Mempool Transactions(Realtime Transactions)
-10. Smart Contract Write Functions (Sending Transactions)
-11. Smart Contract Events
+
+// AFTERNOON SESSION
+
+10. Solidity Basics
+11. Smart Contract Structure, Token Creation, Writing Tests and deployment Scripts
 12. Smart Contract Deployment
 
 ## PREREQUISITES
@@ -32,6 +34,7 @@
 ## SETUP
 
 1. Clone the Repository: [ TutorPlate ](git@github.com:Enockkipkoech/TutorPlate.git)
+   `git clone git@github.com:Enockkipkoech/TutorPlate.git`
 
 2. Run `npm install`
 3. Create a `.env` file and add the following
@@ -45,3 +48,9 @@ PRIVATE_KEY=YOUR_PRIVATE_KEY
 ```
 
 4. Run `npm start`
+
+## RESOURCES
+
+1. Web3Js: [Web3Js](https://docs.web3js.org/)
+2. EthersJs: [EthersJs](https://docs.ethers.org/v5/)
+3. Solidity: [Solidity](https://docs.soliditylang.org/en/v0.8.7/)
