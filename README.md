@@ -2,6 +2,8 @@
 
 ## YOUR TUTOR: [Enock Kipkoech](https://github.com/Enockkipkoech/TutorPlate)
 
+## Repository: [KibokoDAO](git@github.com:KibokoDao-Africa/blockchain_hands_on.git)
+
 ## Learn Blockchain by building on it !!!
 
 ## OBJECTIVES
@@ -53,4 +55,17 @@ PRIVATE_KEY=YOUR_PRIVATE_KEY
 
 1. Web3Js: [Web3Js](https://docs.web3js.org/)
 2. EthersJs: [EthersJs](https://docs.ethers.org/v5/)
-3. Solidity: [Solidity](https://docs.soliditylang.org/en/v0.8.7/)
+
+<!-- LISK RESOURCES -->
+
+1. https://github.com/LiskHQ/scaffold-lisk
+2. https://docs.lisk.com/lisk-tools/api-providers#lisk-rpc
+
+## RPCs
+
+1. https://rpc.api.lisk.com
+2. https://rpc.sepolia-api.lisk.com
+
+## Explorer
+
+1. https://blockscout.lisk.com/
