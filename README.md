@@ -15,13 +15,13 @@
 5. Ethers Wallet Balance Check
 6. Smart Contract ABI & Address
 7. Smart Contract Connection(Connect to Smart Contract)
-8. Smart Contract Read Functions( Interract with Smart Contract)
+8. Smart Contract Read Functions(Interract with Smart Contract)
 
 // AFTERNOON SESSION
 
-10. Solidity Basics
-11. Smart Contract Structure, Token Creation, Writing Tests and deployment Scripts
-12. Smart Contract Deployment
+9. Solidity Basics
+10. Smart Contract Structure, Token Creation, Writing Tests and deployment Scripts
+11. Smart Contract Deployment
 
 ## PREREQUISITES
 
